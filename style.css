@@ -1,0 +1,58 @@
+html{
+font-size: medium;
+}
+body{
+background-color:#cae7c0;
+padding: 1rem;
+color:white;
+}
+th,td,caption{
+border :1px solid white;
+font-family:'courier new',courier,monospace;
+padding:1px;
+}
+.shop{
+ color:white;
+ text-align:center;
+ }
+ a{
+color:white
+}
+.details{
+color:white
+}
+h2{
+color:white
+
+}
+hr{
+color:white;
+}
+.text{
+color:white 
+}
+button{
+background-color: #cae7c0;
+color:white;
+border: 1px solid white ;
+}
+input{
+    background-color: #cae7c0;
+    border:1px solid white; 
+}
+::placeholder{
+    color: white;
+}
+textarea{
+    background-color: #cae7c0;
+    border: 1px solid white;
+}
+fieldset{
+    border: 1px solid white
+}
+hr{
+    border: #cae7c0;
+}
+   
+
+
